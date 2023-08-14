@@ -16,16 +16,6 @@ public:
 	Elevator(int range, string regime, string working, int floor)
 		: range(range), regime(regime), working(working), floor(floor) {}
 
-
-
-
-
-
-
-
-
-
-
 	int set_Range(int range);
 	int set_Floor(int range);
 	string set_Regime(string regime);
